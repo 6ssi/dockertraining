@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Say language="ja-jp" voice="alice">Test. Enjoy your Twilio life!</Say>
+  <Say language="ja-jp" voice="alice">こんにちは。Test. Enjoy your Twilio life!</Say>
 </Response>
