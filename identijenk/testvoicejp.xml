@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Say voice="alice" language="ja-jp">
+  <Say voice='alice' language='ja-JP'>
 　　こんにちはー。Twilioは楽しいですねー。
 　</Say>
 </Response>
