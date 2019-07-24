@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="EUC-JP"?>
 <Response>
-  <Say voice="woman" language="ja-JP">Hello!こんにちは</Say>
+  <Say voice="woman" language="fr-FR">Chapeau!</Say>
 </Response>
